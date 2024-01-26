@@ -25,5 +25,4 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 1. Clone the repository:
 ```bash
-Project Showcase---
 https://sakthi-m1.github.io/Weather-App/
